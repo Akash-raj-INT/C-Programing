@@ -1,6 +1,6 @@
 # 📊 Data Analysis & Visualization Projects  
 
-## 🏋️ 3. Fitness Club Management System  
+## 🏋️. Fitness Club Management System  
 
 ### 📌 Overview  
 Developed a **Fitness Club Management** program in **C**, utilizing pointers and file handling to efficiently manage user registrations and memberships. Implemented a structured data storage system that enables users to **register, update, search, and delete records**, ensuring smooth information management.  
