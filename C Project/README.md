@@ -1,3 +1,4 @@
+![Screenshot 2025-05-12 174127](https://github.com/user-attachments/assets/ba18c96f-c88c-4c16-ac50-6801978a2249)
 # 📊 Data Analysis & Visualization Projects  
 
 ## 🏋️. Fitness Club Management System  
@@ -33,4 +34,19 @@ This project demonstrated strong proficiency in **C programming, data structures
 4. 📁 **File Operations** - Store and retrieve user data efficiently.  
 
 ---
+                             
+
+![Screenshot 2025-05-12 174127](https://github.com/user-attachments/assets/7eaf6fa3-c577-4121-8b5a-89787167ffd0)
+![Screenshot 2025-05-12 174140](https://github.com/user-attachments/assets/12e1afde-a5e0-4fbe-9de1-9f2f5665820c)
+![Screenshot 2025-05-12 174320](https://github.com/user-attachments/assets/2df48016-96c2-49b9-bfae-d36c6863ebb2)
+![Screenshot 2025-05-12 174543](https://github.com/user-attachments/assets/7b533f6b-62dd-4dda-8674-f0c7d407a2e0)
+![Screenshot 2025-05-12 174606](https://github.com/user-attachments/assets/116c318c-6f62-46d8-9b53-c821192c985e)
+![Screenshot 2025-05-12 174634](https://github.com/user-attachments/assets/5c637e49-3623-4772-abe0-f0de1aeefc00)
+![Screenshot 2025-05-12 174647](https://github.com/user-attachments/assets/19913831-20d4-44c6-ab20-cda668d0aac3)
+
+
+
+
+
+
 
