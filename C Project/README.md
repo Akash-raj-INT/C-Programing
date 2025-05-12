@@ -1,4 +1,3 @@
-![Screenshot 2025-05-12 174127](https://github.com/user-attachments/assets/ba18c96f-c88c-4c16-ac50-6801978a2249)
 # 📊 Data Analysis & Visualization Projects  
 
 ## 🏋️. Fitness Club Management System  
